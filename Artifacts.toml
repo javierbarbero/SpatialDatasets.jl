@@ -1,0 +1,7 @@
+[GeoDaGuerry]
+git-tree-sha1 = "519d16f9052886b1b10db55769419a850527c2de"
+lazy = true
+
+    [[GeoDaGuerry.download]]
+    sha256 = "acf3d2ce479d2a2c3328a2b75087ed35d97b8fc986b50c9b1738b8a8119f31d7"
+    url = "https://github.com/javierbarbero/SpatialDatasets.jl/releases/download/Artifacts/GeoDaGuerry.tar.gz"

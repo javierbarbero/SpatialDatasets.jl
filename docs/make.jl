@@ -15,6 +15,8 @@ makedocs(;
     ),
     pages=[
         "Home" => "index.md",
+        "List of Spatial Datasets" => "sdatasets.md",
+        "API" => "api.md",
     ],
 )
 
