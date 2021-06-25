@@ -4,7 +4,7 @@ CurrentModule = SpatialDatasets
 
 # SpatialDatasets
 
-The package [SpatialDatasets](https://github.com/javierbarbero/SpatialDatasets.jl) contians a set of popular spatial datasets for spatial data analysis.
+The package [SpatialDatasets.jl](https://github.com/javierbarbero/SpatialDatasets.jl) contians a set of popular spatial datasets for spatial data analysis.
 
 The datasets are storead as lazy Pkg Artifacts and are downloaded and installed once first used. See [List of Spatial Datasets](@ref) for a list of all available datasets.
 

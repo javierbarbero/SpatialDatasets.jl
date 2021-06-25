@@ -6,4 +6,6 @@ CurrentModule = SpatialDatasets
 
 | Name | Desription | Source |
 |------|-----------:|-------:|
-|Guerry | Moral statistics of France (Guerry, 1833) | [GeoDa Data and Lab](https://geodacenter.github.io/data-and-lab/Guerry/) |
+| Bostonhsg | Boston housing and neighborhood data | [GeoDa Data and Lab](https://geodacenter.github.io/data-and-lab/boston-housing/) |
+| Guerry | Moral statistics of France (Guerry, 1833) | [GeoDa Data and Lab](https://geodacenter.github.io/data-and-lab/Guerry/) |
+

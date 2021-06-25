@@ -5,3 +5,11 @@ lazy = true
     [[GeoDaGuerry.download]]
     sha256 = "acf3d2ce479d2a2c3328a2b75087ed35d97b8fc986b50c9b1738b8a8119f31d7"
     url = "https://github.com/javierbarbero/SpatialDatasets.jl/releases/download/Artifacts/GeoDaGuerry.tar.gz"
+
+[GeoDaBostonhsg]
+git-tree-sha1 = "6ad8a8c7294960af4b958ad685499e42efcf61c8"
+lazy = true
+
+    [[GeoDaBostonhsg.download]]
+    sha256 = "9e59e9f2f6e4c8e8795f093177e77dc15f7eb86e1b08594708fc91db627612f8"
+    url = "https://github.com/javierbarbero/SpatialDatasets.jl/releases/download/Artifacts/GeoDaBostonhsg.tar.gz"
