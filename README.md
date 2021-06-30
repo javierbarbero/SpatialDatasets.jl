@@ -1,4 +1,4 @@
-# SpatialDatasets
+# SpatialDatasets.jl
 
 A Julia package containing popular spatial datasets for spatial data analysis
 
