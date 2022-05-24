@@ -3,6 +3,11 @@ using Documenter
 
 DocMeta.setdocmeta!(SpatialDatasets, :DocTestSetup, :(using SpatialDatasets); recursive=true)
 
+# Load dataset to not display Downloading Artifact message in the documentation
+begin
+    guerry = sdataset("Guerry")
+end
+
 makedocs(;
     modules=[SpatialDatasets],
     authors="Javier Barbero and contributors",
